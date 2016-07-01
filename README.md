@@ -1,1 +1,2 @@
-# gradleTest
+# Gradle Tests
+Sample Gradle projects
